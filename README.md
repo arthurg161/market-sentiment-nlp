@@ -7,3 +7,6 @@ An NLP model that processes financial news articles and quantifies their sentime
 ### File 1. Model training
 
 ![workflow](https://github.com/arthurg161/market-sentiment-nlp/blob/main/images/model%20workflow.png)
+
+### Confusion Matrix for trained model
+![CM](https://github.com/arthurg161/market-sentiment-nlp/blob/main/images/CM.png)
